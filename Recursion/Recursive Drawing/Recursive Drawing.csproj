@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_02._Recursive_Drawing</RootNamespace>
+    <RootNamespace>Recursive_Drawing</RootNamespace>
   </PropertyGroup>
 
 </Project>
