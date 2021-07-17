@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Array Sum", "Recursive Array Sum\Recursive Array Sum.csproj", "{CFFCE5AF-9616-4268-A567-A6A3BA19F66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive Array Sum", "Recursive Array Sum\Recursive Array Sum.csproj", "{CFFCE5AF-9616-4268-A567-A6A3BA19F66B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Drawing", "Recursive Drawing\Recursive Drawing.csproj", "{FF472FA4-F910-4391-9AEA-AF123EEEF51F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive Drawing", "Recursive Drawing\Recursive Drawing.csproj", "{FF472FA4-F910-4391-9AEA-AF123EEEF51F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generating 0-1 Vectors", "Generating 0-1 Vectors\Generating 0-1 Vectors.csproj", "{14682641-56E6-4874-9A6E-E411D99EAA3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generating 0-1 Vectors", "Generating 0-1 Vectors\Generating 0-1 Vectors.csproj", "{14682641-56E6-4874-9A6E-E411D99EAA3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Factorial", "Recursive Factorial\Recursive Factorial.csproj", "{6AE746B4-1004-4DAD-98B6-CD23B2D32F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive Factorial", "Recursive Factorial\Recursive Factorial.csproj", "{6AE746B4-1004-4DAD-98B6-CD23B2D32F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paths in Labyrinth", "Paths in Labyrinth\Paths in Labyrinth.csproj", "{9B060887-B54C-4ACE-B2AF-9EC7F5C174C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6AE746B4-1004-4DAD-98B6-CD23B2D32F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE746B4-1004-4DAD-98B6-CD23B2D32F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE746B4-1004-4DAD-98B6-CD23B2D32F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B060887-B54C-4ACE-B2AF-9EC7F5C174C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B060887-B54C-4ACE-B2AF-9EC7F5C174C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B060887-B54C-4ACE-B2AF-9EC7F5C174C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B060887-B54C-4ACE-B2AF-9EC7F5C174C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
